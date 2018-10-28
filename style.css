@@ -1,0 +1,139 @@
+body {
+	
+	background-color: #465471;
+	color: white;
+	margin-left: 200px;
+}
+
+
+h1{
+	color: #17252a;
+}
+
+div.contenut
+{
+	position: absolute;
+	top: 50px;
+	left: 700px;
+	width: 1500px;
+	height: 1500px;
+	font-size: 25px;
+	
+}
+
+div#container
+{
+	position: absolute;
+	top: 580px;
+	left: 305px;
+}
+
+div#event
+{
+	position: absolute;
+	top: 290px;
+	left: 305px;
+}
+
+
+div#test_null
+{
+	position: absolute;
+	top: 180px;
+	left: 350px;
+}
+
+span#rainbow
+{
+	position: absolute;
+	top: 120px;
+	left: 305px;
+	
+}
+
+span#new_element
+{
+	position: absolute;
+	top: 200px;
+	left: 305px;
+	
+}
+
+
+ol.navbar {
+  position: absolute;
+  top: 30px;
+  left: 5px;
+  width: 150px
+}
+
+ol.navbar li {
+  margin: 10px 0;
+  padding: 4px;
+  border-right: 1px solid #17252a;
+  border-top: 1px solid #17252a;
+  border-left: 10px solid #17252a;
+  border-bottom: 1px solid #17252a;
+}
+
+ol.navbar a {
+  text-decoration: none
+}
+
+img.pictures{
+	position: absolute;
+	top: 400px;
+	left: 255px;
+	width: 350px;
+	
+}
+
+img.pictures2{
+	position: absolute;
+	top: 400px;
+	left: 755px;
+	width: 350px;
+	
+}
+
+img.pictures3{
+	position: absolute;
+	top: 400px;
+	left: 1255px;
+	width: 350px;
+	
+}
+
+img#first{
+	
+	position: absolute;
+	top: 30px;
+	left: 395px;
+	
+}
+
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+
+/*
+#i2{
+	position: absolute;
+	top: 400px;
+	left: 455px;
+	width: 350px;
+}
+
+#i3{
+	position: absolute;
+	top: 400px;
+	left: 655px;
+	width: 350px;
+}
+*/
