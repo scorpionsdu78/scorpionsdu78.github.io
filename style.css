@@ -80,6 +80,23 @@ ul.navbar a {
   text-decoration: none
 }
 
+ol#info 
+{
+	position: absolute;
+	top: 40px;
+	left: 1555px;
+	width: 190px
+}
+
+ol.#info a {
+  text-decoration: none
+}
+
+ol#info li {
+  margin: 10px 0;
+  padding: 4px;
+}
+
 img.pictures{
 	position: absolute;
 	top: 400px;
